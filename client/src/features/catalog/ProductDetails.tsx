@@ -60,7 +60,3 @@ export default function ProductDetails(){
 </Grid>
     )
 }
-
-function userState<T>(): [any, any] {
-    throw new Error("Function not implemented.");
-}
