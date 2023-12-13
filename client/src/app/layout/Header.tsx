@@ -1,4 +1,4 @@
-import { ShoppingCart, VerticalAlignBottom } from "@mui/icons-material";
+import { ShoppingCart } from "@mui/icons-material";
 import {
   AppBar,
   Badge,
